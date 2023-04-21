@@ -1,0 +1,7 @@
+firstName1=input("Cual es tu nombre? ")
+lastName1=input("Cual es tu apellido? ")
+firstName=input("Cual es tu nombre? ")
+lastName=input("Cual es tu apellido? ")
+sección=input("Cual es tu sección? ")
+sede=input("Cual es tu sede de Inacap? ")
+print("Hola "+firstName1,lastName1+" y "+firstName,lastName+", estan en la sección "+sección+ ", de la sede "+sede+ ", de la carrera de: Ing. en Telecomunicaciones, conectividad y redes.")
